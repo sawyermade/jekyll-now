@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+You are born, pay taxes, try to procreate, and die. That is the summary of life.
 
 ### More Information
 
@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[danielsawyer@mail.usf.edu](mailto:danielsawyer@mail.usf.edu)
