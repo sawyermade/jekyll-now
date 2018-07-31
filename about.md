@@ -8,7 +8,7 @@ You are born, pay taxes, try to procreate, and die. That is the summary of life.
 
 ### What I Do
 
-Computer + Science = :-)
+Computer + Science == :-)
 
 ### Contact me
 
