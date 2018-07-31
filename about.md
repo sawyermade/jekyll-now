@@ -6,7 +6,7 @@ permalink: /about/
 
 You are born, pay taxes, try to procreate, and die. That is the summary of life.
 
-### More Information
+### What I Do
 
 Computer + Science = :-)
 
