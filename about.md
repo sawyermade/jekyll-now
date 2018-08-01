@@ -12,4 +12,5 @@ Computer + Science =  :-)
 
 ### Contact me
 
-[danielsawyer@mail.usf.edu](mailto:danielsawyer@mail.usf.edu)
+<!--- [danielsawyer@mail.usf.edu](mailto:danielsawyer@mail.usf.edu) --->
+[sawyermade0@gmail.com](mailto:sawyermade0@gmail.com)
