@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Welcome to my blog!
+title: Diego Sucks!
 ---
-Neil Sucks
+Blah blah
 
 <!-- ![_config.yml]({{ site.baseurl }}/images/config.png) -->
 
